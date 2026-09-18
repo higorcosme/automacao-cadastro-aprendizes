@@ -61,3 +61,17 @@ Centralização das informações de jovens aprendizes em uma única base de dad
 Eliminação da necessidade de consolidação manual dos formulários.
 Automatização do tratamento e atualização das informações.
 Estrutura preparada para inclusão de novos registros com atualização simplificada.
+
+## Como Executar
+
+1. Adicione os formulários na pasta de entrada.
+
+2. Execute o arquivo `AtualizarAprendizes.bat`.
+
+3. O script irá:
+
+- Converter arquivos `.xls` para `.xlsx`;
+
+- Atualizar a base consolidada;
+
+- Salvar as alterações automaticamente.
